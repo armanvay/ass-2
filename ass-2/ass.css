@@ -1,0 +1,28 @@
+.display-flex {
+  display: flex;
+}
+.nav-item {
+  list-style: none;
+  margin-right: 48px;
+}
+.nav-link {
+  text-decoration: none;
+  font-weight: 500px;
+}
+.navbar {
+  justify-content: space-between;
+  text-align: center;
+  align-items: center;
+}
+.work {
+  border: 2px solid chocolate;
+  margin: 30px 150px 120px 150px;
+}
+/*coler*/
+.text-coler {
+  color: #8987a1;
+}
+.new-coler {
+  color: #252432;
+  font-size: medium;
+}
