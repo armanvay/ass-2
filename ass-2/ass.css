@@ -44,3 +44,12 @@
 .img {
   padding-top: 106px;
 }
+.main-last {
+  text-align: center;
+  border: 2px solid chocolate;
+  margin: auto 150px 49px 150px;
+  padding: 20px;
+}
+.our {
+  font-weight: 300;
+}
