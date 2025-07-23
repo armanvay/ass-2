@@ -53,3 +53,23 @@
 .our {
   font-weight: 300;
 }
+/*motamoti mani last*/
+
+.image {
+  width: auto;
+  text-align: center;
+}
+.add {
+  background-color: #e95a08;
+  color: #ffff;
+  text-align: center;
+  width: 70%;
+  border: 1px solid crimson;
+}
+.crad-continar {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 20px;
+  row-gap: 30px;
+  margin: auto 150px 210px 150px;
+}
