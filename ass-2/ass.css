@@ -13,9 +13,7 @@
   justify-content: space-between;
   text-align: center;
   align-items: center;
-}
-.work {
-  border: 2px solid chocolate;
+  border: 2px solid crimson;
   margin: 30px 150px 120px 150px;
 }
 /*coler*/
@@ -25,4 +23,24 @@
 .new-coler {
   color: #252432;
   font-size: medium;
+}
+/*main*/
+.fol {
+  display: flex;
+  margin: 120px 150px 120px 150px;
+  border: 2px solid rgb(36, 36, 36);
+  height: auto;
+}
+.oring {
+  color: #e95a08;
+}
+.main {
+  color: #000000;
+  padding-top: 162px;
+}
+.para {
+  font-size: small;
+}
+.img {
+  padding-top: 106px;
 }
