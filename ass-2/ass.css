@@ -22,7 +22,7 @@
 }
 .new-coler {
   color: #252432;
-  font-size: medium;
+  font-weight: 700px;
 }
 /*main*/
 .fol {
@@ -39,7 +39,7 @@
   padding-top: 162px;
 }
 .para {
-  font-size: small;
+  font-weight: 200;
 }
 .img {
   padding-top: 106px;
@@ -65,6 +65,7 @@
   text-align: center;
   width: 70%;
   border: 1px solid crimson;
+  padding: 20px;
 }
 .crad-continar {
   display: grid;
@@ -72,4 +73,95 @@
   column-gap: 20px;
   row-gap: 30px;
   margin: auto 150px 210px 150px;
+}
+.usd {
+  color: rgb(0, 0, 0);
+  font-size: medium;
+  padding: 10px;
+  font-weight: bold;
+}
+.lily {
+  padding-top: 30px;
+  font-weight: 800;
+}
+/*mani alomsot last */
+.continar-img {
+  display: flex;
+  gap: 50px;
+  margin: auto 150px 133px 150px;
+}
+.same {
+  color: #8987a1;
+  padding: 50px;
+  border: 2px solid chocolate;
+  margin-left: 200px;
+}
+.madel {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  padding-left: 320px;
+  padding-bottom: 300px;
+  position: absolute;
+  margin-top: -150px;
+}
+.lover {
+  font-weight: bold;
+}
+.from {
+  font-weight: bolder;
+  position: absolute;
+}
+/*all most last*/
+.all-most {
+  border: 2px solid salmon;
+  text-align: center;
+  align-items: center;
+  margin: auto auto 120px auto;
+}
+.final {
+  display: flex;
+  gap: 30px;
+  margin: auto 150px 120px 150px;
+  border: 2px solid black;
+}
+.bloom {
+  position: absolute;
+  margin: 50px;
+  row-gap: 20px;
+}
+.img-continar {
+  padding: 20px;
+  width: 100%;
+}
+#off {
+  position: absolute;
+  margin-top: -120px;
+  position: absolute;
+  margin-left: 100px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#ana {
+  position: absolute;
+  margin-top: -120px;
+  position: absolute;
+  margin-left: 100px;
+  color: #ffffff;
+  font-weight: bold;
+}
+#zobo {
+  position: absolute;
+  margin-top: -220px;
+  position: absolute;
+  margin-left: 300px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.final img {
+  border-radius: 20px;
+}
+.text-b {
+  color: #000000;
+  font-weight: bold;
 }
